@@ -4,7 +4,7 @@ title: Interview Questions
 ---
 
 ## What is Kubernetes?
-* kubenetes is a orchestration tool. 
+* kubenetes is a container orchestration tool. 
 * used to manage containers.
 
 ## What is the difference between kubernetes and docker?
