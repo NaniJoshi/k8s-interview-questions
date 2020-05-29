@@ -44,7 +44,7 @@ sudo kubeadm init --pod-network-cidr=192.168.0.0/16 --apiserver-advertise-addres
 run the three steps it will display in terminal in master
 ```
 
-## Step5: Install Calico for Networking
+## Step4: Install Calico for Networking
 ```
 kubectl apply -f https://docs.projectcalico.org/v3.14/manifests/calico.yaml
 ```
