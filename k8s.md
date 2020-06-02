@@ -5,6 +5,7 @@ title: Interview Questions
 
 ## What is Kubernetes?
 * kubenetes is a container orchestration tool. 
+* It is desined and developed by Google in 2000 and later in 2014 donated to Cloud Native Computing Foundation(CNCF).
 * used to manage containers.
 
 ## What is the difference between kubernetes and docker?
