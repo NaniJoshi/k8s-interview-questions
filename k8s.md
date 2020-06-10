@@ -57,3 +57,6 @@ title: Interview Questions
 ## Differences between container and vm?
 * Container is a light weight software and we can ship and run anywhere
 * VM is a 
+
+## What is replication set?
+* replication is nothing but a kubernetes entity which will ensure that the current state and desired stste are same or maintain specified number of pods in running state.
