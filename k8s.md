@@ -66,3 +66,5 @@ title: Interview Questions
 ## What is VPC?
 * It is a privete network where we can create our resources or service. Inside VPC we can create subnets, route tables, gateways, security groups and nacl's.
 
+## What is replication set?
+* replication is nothing but a kubernetes entity which will ensure that the current state and desired stste are same or maintain specified number of pods in running state.
