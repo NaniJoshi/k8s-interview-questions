@@ -57,3 +57,12 @@ title: Interview Questions
 ## Differences between container and vm?
 * Container is a light weight software and we can ship and run anywhere
 * VM is a 
+
+## What is difference between public, Nat, and Private subnets?
+* Nat is used to provide internet access to the private subnet.
+* Public is used to talk to the internet directly using IGW.
+* Private can not talk to internet.
+
+## What is VPC?
+* It is a privete network where we can create our resources or service. Inside VPC we can create subnets, route tables, gateways, security groups and nacl's.
+
