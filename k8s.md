@@ -40,6 +40,8 @@ title: Interview Questions
     * kube-Proxy --> it will take care of network related like ip address to the pods.
     * Docker --> docker will run the containers.
 
+* when we run kubectl command it will talk to kube-apiserver, api-server will talk to etcd, etcd will give info to api-server then server will talk to kubelet, kubelet will talk to Docker and pull images and create a pod.    
+
 ## What is the difference between image and a container?
 * Docker image is template with basic os, application services and data     
 * Docker container is a copy of image with additional resources like cpu, memory, network and storage.    
